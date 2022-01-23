@@ -1,4 +1,4 @@
-# Fashin-retail-forecasting
+# Fashion-retail-forecasting
 This project implements classic multi-layer perceptron and evolutionary neural network to forecast demand of a fashion apparel.
 
 ### Results
